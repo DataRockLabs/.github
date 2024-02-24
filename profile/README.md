@@ -14,8 +14,8 @@ BI rocks. But it's completely useless if it isn't in the right place, at the rig
 ### [Great Expectations](https://github.com/great-expectations/great_expectations) 🎯
 Great Expectations is a Python library that helps you write tests to validate data in your pipelines, ensuring that it meets your expectations. It allows you to **define expectations for various data sources and formats, such as databases, CSV files, or JSON files, and then run those expectations as tests**. This can be particularly useful in data engineering and data science workflows to ensure data quality and consistency throughout the pipeline. Great Expectations provides a flexible and expressive way to specify these expectations and integrate them seamlessly into your existing codebase.
 
-We have **50 closed Pull Requests** in the Great Expectations Project 🚀
-[View our closed Pull Requests](https://github.com/great-expectations/great_expectations/pulls?q=author%3Aszecsip+is%3Aclosed)
+We have **50 merged Pull Requests** in the Great Expectations Project 🚀
+[View our merged Pull Requests](https://github.com/great-expectations/great_expectations/pulls?q=author%3Aszecsip+is%3Amerged+)
 
 ### [Astronomer Cosmos](https://github.com/astronomer/astronomer-cosmos) 🌌
 Run your dbt Core projects as Apache Airflow DAGs and Task Groups with a few lines of code. Benefits include:
@@ -26,8 +26,8 @@ Run your dbt Core projects as Apache Airflow DAGs and Task Groups with a few lin
 -   Utilize **Airflow’s data-aware scheduling** to run models immediately after upstream ingestion
 -   Turn **each dbt model into a task/task group complete with retries, alerting, etc.**
 
-We have several closed Pull Requests in the Astronomer Cosmos Project
-[View our closed Pull Requests](https://github.com/astronomer/astronomer-cosmos/pulls?q=author%3Aszecsip+is%3Aclosed)
+We have 3 merged Pull Requests in the Astronomer Cosmos Project
+[View our merged Pull Requests](https://github.com/astronomer/astronomer-cosmos/pulls?q=author%3Aszecsip+is%3Amerged+)
 ### [Codium PR-Agent](https://github.com/Codium-ai/pr-agent) 🤖
 CodiumAI is leveraging its know-how in order to provide developers with an AI agent tool aiming to help developers review PRs faster and more efficiently. It automatically analyzes the commits and the PR and can provide several types of feedback:
 
@@ -36,5 +36,5 @@ CodiumAI is leveraging its know-how in order to provide developers with an AI ag
 **Question Answering:**  Answering free-text questions about the PR.  
 **Code Suggestion:**  Committable code suggestions for improving the PR.
 
-We have multiple closed Pull Requests in the Codium PR-Agent Project
-[View our closed Pull Requests](https://github.com/Codium-ai/pr-agent/pulls?q=author%3Aszecsip+is%3Aclosed)
+We have 2 closed Pull Requests in the Codium PR-Agent Project
+[View our merged Pull Requests](https://github.com/Codium-ai/pr-agent/pulls?q=author%3Aszecsip+is%3Amerged+)
