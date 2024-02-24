@@ -26,9 +26,9 @@ Run your dbt Core projects as Apache Airflow DAGs and Task Groups with a few lin
 -   Utilize **Airflow’s data-aware scheduling** to run models immediately after upstream ingestion
 -   Turn **each dbt model into a task/task group complete with retries, alerting, etc.**
 
-We have several closed Pull Requests in the Astronomer Cosmos Project 🤖
+We have several closed Pull Requests in the Astronomer Cosmos Project
 [View our closed Pull Requests](https://github.com/astronomer/astronomer-cosmos/pulls?q=author%3Aszecsip+is%3Aclosed)
-### [Codium PR-Agent](https://github.com/Codium-ai/pr-agent)
+### [Codium PR-Agent](https://github.com/Codium-ai/pr-agent) 🤖
 CodiumAI is leveraging its know-how in order to provide developers with an AI agent tool aiming to help developers review PRs faster and more efficiently. It automatically analyzes the commits and the PR and can provide several types of feedback:
 
 **Auto-Description:**  Automatically generating PR description - name, type, summary, and code walkthrough.  
